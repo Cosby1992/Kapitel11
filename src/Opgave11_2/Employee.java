@@ -97,7 +97,7 @@ public class Employee extends Person{
     }
 
     /**
-     * All javadoc made by COSBY AKA. HELLFIGHTER!...
+     * All javadoc made by COSBY AKA. HELLFIGHTER!..........
      */
 
 }
